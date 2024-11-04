@@ -37,7 +37,7 @@ Steps to get started:
 3. Create db file: ./prisma/database.db  
 4. Apply pending migrations: npx prisma migrate deploy  
 5. Seed db: npx prisma db seed  
-6. Start server: npm run start  
+6. Start server: npm run star.
 
 Useful things:  
 
